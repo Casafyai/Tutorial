@@ -1,7 +1,5 @@
 # ![Casafy AI](https://raw.githubusercontent.com/Casafyai/Tutorial/refs/heads/main/blue-full-logo.png)
 
-# Welcome to Casafy!
-
 ## Quick Start Guide
 
 If you have any questions or need assistance getting started, feel free to email us at [hello@casafy.ai](mailto:hello@casafy.ai) – we're here to help!
@@ -23,8 +21,6 @@ Once your map navigates to a searchable area, you'll see it highlighted in blue.
 When an area is added successfully, the postal code will turn green, indicating you're ready to search. Enter your query in the search bar to find anything visual on properties and hit enter.
 
 ![Search Results](https://raw.githubusercontent.com/Casafyai/Tutorial/refs/heads/main/Result.png)
-
-> **💡 Pro Tip:** Subscribe to a plan to get more credits and unlock additional postal codes for expanded searching capabilities. Happy searching!
 
 ---
 
