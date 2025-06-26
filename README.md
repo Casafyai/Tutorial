@@ -1,10 +1,6 @@
 # ![Casafy AI](https://raw.githubusercontent.com/Casafyai/Tutorial/refs/heads/main/blue-full-logo.png)
 
-**Welcome to the Future of Property Intelligence**
-
----
-
-## Welcome to Casafy!
+# Welcome to Casafy!
 
 ## Quick Start Guide
 
@@ -38,5 +34,3 @@ Best regards,
 ---
 
 *Casafy AI Inc. | San Carlos, CA 94070*
-
-*You're receiving this email because you recently created a Casafy AI account.*
